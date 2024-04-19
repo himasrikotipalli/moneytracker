@@ -10,6 +10,7 @@ _________________
 ###### index.html: HTML file containing the structure of the web app.
 ###### style.css: CSS file for styling the web app interface.
 ###### script.js: JavaScript file for handling user interactions and data manipulation.
+________________
 ### How to Use:
 ###### Clone this repository to your local machine using Git.
 ###### Open the index.html file in your web browser to use the Money Tracker Web App.
